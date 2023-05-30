@@ -1,13 +1,20 @@
----
-title: "32 Path"
-date: 2023-01-24T20:04:07+08:00
-tags: []
-categories: []
-weight: 50
-show_comments: true
-katex: false
-draft: false
----
++++
+author = "Josh Yates"
+title = "Administrative Intelligence"
+date = "2023-03-11"
+description = "32nd Path description."
+tags = [
+    "32nd-Path",
+    "qabalah",
+    "tree-of-life",
+]
+categories = [
+    "tree of life",
+    "paths",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
++++
 
 32nd Path.
 
