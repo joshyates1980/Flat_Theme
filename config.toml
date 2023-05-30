@@ -69,13 +69,21 @@ weight = 80
 
 # 2-level sub menus are supported
 [[menus.main]]
-name = "Services"
+name = "Tarot"
 weight = 60
 [[menus.main]]
-parent = "Services"
-name = "Service A"
+parent = "Tarot"
+name = "Arcanum 0"
 url = "#"
 [[menus.main]]
-parent = "Services"
-name = "Service B"
+parent = "Tarot"
+name = "Arcanum 1"
+url = "#"
+[[menus.main]]
+parent = "Tarot"
+name = "Arcanum 2"
+url = "#"
+[[menus.main]]
+parent = "Tarot"
+name = "Arcanum 3"
 url = "#"
